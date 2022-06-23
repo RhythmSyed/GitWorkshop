@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+dr strange is chill
+=======
+dr strange is cool
+>>>>>>> 34b25ec73b7e8f3a9aa0790834835aedc5610b39
